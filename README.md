@@ -3,6 +3,7 @@
 
 ## 📌 Project Overview
 This project, developed for the **Business Project in Big Data & AI** module at GISMA University, investigates greenhouse gas trends within Germany. It utilizes Machine Learning to analyze carbon footprints and provide data-driven insights for the German energy transition (Energiewende).
+Predictive analytics and Big Data investigation of greenhouse gas emission trends in the German Energy Sector (2024-2026). Focused on industrial sustainability and carbon neutrality targets.
 
 ## 🚀 Key Features
 - **Time-Series Analysis:** Analyzing historical CO2 data to identify seasonal and industrial patterns.
